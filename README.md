@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Modules Needed
+
+Axios: 'npm install axios'
+
+## API Reference
+
+https://randomuser.me
+
+For this project, I narrowed down the results to name, E-mail address, and picture for 1,000 users in the US only.
+
 ## Available Scripts
 
 In the project directory, you can run:
